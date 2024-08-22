@@ -10,8 +10,8 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I’m John Carlo Dizon, 21 years old from San Nicolas Mexico Pampanga. 
-         My hobbies are playing basketball, playing piano, and sometimes I’ll do weight training f
-         or my healthy lifestyle. I don’t have favorite foods but sometimes I love eating sweets.</p>
+         My hobbies are playing basketball, playing piano, and sometimes I’ll do weight training for 
+         my healthy lifestyle. I don’t have favorite foods but sometimes I love eating sweets.</p>
 
         <p>When I’m in my first year of college, the IT program was only my second choice. because the program 
            I want to take that time is about businessing, because I have a plan to build a business in the near future.  
